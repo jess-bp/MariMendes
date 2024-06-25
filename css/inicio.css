@@ -1,0 +1,46 @@
+body {
+    background-color:#FF66C4;
+    height: 500px;
+}
+
+a:link, a:active, a:visited {
+    color:white;
+    text-decoration: none;
+}
+
+header{
+    padding: 15px 0;
+    height:  200px;
+    width: 700px;
+    background-color: #FF66C4;
+    margin-left: 600px;
+}
+
+.logo {
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 20px;
+    float: right;
+    margin-top: 90px;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a:link {
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+#slogan {  
+    margin-top: 5px;
+    margin-bottom: 200px;
+    background-color: #FF66C4;
+    height: 500px;
+}

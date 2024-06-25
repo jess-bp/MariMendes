@@ -1,0 +1,111 @@
+body {
+    background-color:#FF66C4;
+    height: 500px;
+}
+
+a:link, a:active, a:visited {
+    color:white;
+    text-decoration: none;
+}
+
+header{
+    padding: 15px 0;
+    height:  200px;
+    width: 700px;
+    background-color: #FF66C4;
+    margin-left: 600px;
+}
+
+.logo {
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 20px;
+    float: right;
+    margin-top: 90px;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a:link {
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+#slogan {  
+    margin-top: 5px;
+    margin-bottom: 200px;
+    background-color: #FF66C4;
+    height: 500px;
+}
+
+input {
+    width:400px;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:25px;
+    border-radius:5px;
+    border:1px solid #fff;
+    box-shadow:inset 0 1px 2px rgba(0,0,0,0.18);
+    font-size:16px;
+}
+
+section#mensagem {
+    background:#f0062d;
+    background: url(imagem/contato.webp) no-repeat;
+    padding: 10px 20px 20px;
+    margin-top: 10px;
+    margin-right: 450px;
+    margin-left: 550px;
+}
+
+textarea {
+    width:400px;
+    height:100px;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:35px;
+    border-radius:5px;
+    border:1px solid #cbcbcb;
+    box-shadow:inset 0 1px 2px rgba(0,0,0,0.18);
+    font-size:16px;
+}
+
+input[type=submit] {
+    background:linear-gradient(to bottom,#ee1771 5%,#762bee 100%);
+    box-shadow:inset 0 1px 0 0  #fff;
+    border:1px solid #fff;
+    color:#fff;
+    font-size:19px;
+    font-weight:700;
+    cursor:pointer;
+}
+
+input[type=submit]:hover{
+    background:linear-gradient(to bottom,#8308d4 5%,#ec2198 100%)
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:#ec2198;
+}
+
+h4, label {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:#ec2198;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size:19px;
+    color: white;
+}
