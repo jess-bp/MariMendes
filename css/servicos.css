@@ -52,7 +52,6 @@ nav ul li a:link {
     margin-left: 500px;
     position: absolute;
     z-index: 1;
-    
 }   
 
 .conteudo2 {
@@ -80,12 +79,14 @@ nav ul li a:link {
     left: 900px;
     top: 350px;
     right: 400px;
-    text-align: center;
+    width: 700px;
+    height: 150px;
+    text-align: justify;
     font-size: 20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 10px;
     margin-right: 10px;
-    
+    border-radius: 10px 120px;
 }
 
 .texto2 {
