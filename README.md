@@ -13,5 +13,5 @@ CONTEÚDO MÍNIMO DA LANDING PAGE:
 - Uma área de sobre/contato com um formulário simples (nome, email e mensagem).
 - Ação de botão de chamada para ação (por exemplo, exibir uma mensagem de agradecimento ou redirecionar para outra página, utilizando JS, claro).
 - Escolha uma paleta de cores harmoniosa e fontes apropriadas.
-- 
+  
 Desenvolver uma landing page simples, Curso Full Stack Jr (+praTi e Codifica) - 2024/1
