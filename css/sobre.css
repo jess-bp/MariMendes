@@ -1,5 +1,5 @@
 body {
-    background-color:#FF66C4;
+    background-color:#FFf;
     height: 500px;
 }
 
@@ -10,10 +10,9 @@ a:link, a:active, a:visited {
 
 header{
     padding: 15px 0;
-    height:  200px;
-    width: 700px;
+    height: 200px;
+    width: 1903px;
     background-color: #FF66C4;
-    margin-left: 600px;
 }
 
 .logo {
@@ -51,7 +50,7 @@ nav ul li a:link {
     margin-top: 30px;
     margin-left: 550px;
     position: absolute;
-   
+    background-color: #fff;
 }   
 
 .sobre {
